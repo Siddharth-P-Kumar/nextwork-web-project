@@ -23,7 +23,7 @@ Services I used were AWS CodePipeline, AWS CodeBuild, AWS CodeDeploy, GitHub, an
 
 ### Project reflection
 
-This project took me approximately [X hours/days] to complete. The most challenging part was troubleshooting the CodePipeline Deploy stage retry issue, as it required understanding the different execution modes and pipeline states. It was most rewarding to successfully retry the Deploy stage and then demonstrate disaster recovery skills by initiating a rollback in the Secret Mission.
+This project took me approximately 3 hours to complete. The most challenging part was troubleshooting the CodePipeline Deploy stage retry issue, as it required understanding the different execution modes and pipeline states. It was most rewarding to successfully retry the Deploy stage and then demonstrate disaster recovery skills by initiating a rollback in the Secret Mission.
 
 ---
 
